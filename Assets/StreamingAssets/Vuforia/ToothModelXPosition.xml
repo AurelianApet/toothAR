@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="ToothModelXPosition" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="ToothModelXPositions_assembly" assemblyId="350047e2585b4c0bbfa63ff50864c8fe">
+<Part name="ToothModelXPosition" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.122019 -0.0678326 0.185854" rotation="AD: 0.9604112790065387 0.9490014018100011 -0.43306327052204113 147.959" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

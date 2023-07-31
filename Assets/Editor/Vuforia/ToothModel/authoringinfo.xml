@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="14.0" toolVersion="9.5.3">
+<ModelTarget name="ToothModel" targetId="83b533dd8aa648e1891256afa409c33c" version="11.1" toolVersion="9.5.3" bbox="-0.137314 -0.148731 -0.003435 -0.059409 -0.084432 0.022264" previewImage="83b533dd8aa648e1891256afa409c33c_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="ToothModels_assembly" assemblyId="3b50b6987d7646acac231fe671d9ba15">
+<Part name="ToothModel" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0001" translation="-0.0975078 -0.119142 0.138951" rotation="AD: 0.9999999999998318 0.003890975242765381 -0.00014921951120047873 175.608" image="ToothModel_viewpoint_0001.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
